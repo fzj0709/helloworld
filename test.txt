@@ -7,3 +7,6 @@ drwxr-xr-x 1 fanzhjian 197121 0 1月  17 16:09 svn/
 toal 2
 drwxr-xr-x 1 fanzhjian 197121 0 1月  19 16:52 dhcc8583/
 drwxr-xr-x 1 fanzhjian 197121 0 1月  19 16:52 dhcc8583/
+total 2
+-rw-r--r-- 1 fanzhjian 197121  62 1月  18 08:41 README.md
+-rw-r--r-- 1 fanzhjian 197121 354 1月  20 13:49 test.txt
