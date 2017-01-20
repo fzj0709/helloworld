@@ -31,3 +31,10 @@ total 6
 drwxr-xr-x 1 fanzhjian 197121    0 1月  20 15:48 fzj/
 -rw-r--r-- 1 fanzhjian 197121   63 1月  20 15:06 README.md
 -rw-r--r-- 1 fanzhjian 197121  661 1月  20 14:05 test.txt
+./
+../
+.git/
+aaa.txt
+fzj/
+README.md
+test.txt
