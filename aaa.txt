@@ -2,8 +2,8 @@ total 2
 -rw-r--r-- 1 fanzhjian 197121   0 1月  20 14:05 aaa.txt
 -rw-r--r-- 1 fanzhjian 197121  62 1月  18 08:41 README.md
 -rw-r--r-- 1 fanzhjian 197121 479 1月  20 14:02 test.txt
-total 3
 
+total 3
 -rw-r--r-- 1 fanzhjian 197121 182 1月  20 14:23 aaa.txt
 -rw-r--r-- 1 fanzhjian 197121  63 1月  20 15:06 README.md
 -rw-r--r-- 1 fanzhjian 197121 661 1月  20 14:05 test.txt
@@ -12,18 +12,22 @@ total 3
 -rw-r--r-- 1 fanzhjian 197121   0 1月  20 14:05 aaa.txt
 -rw-r--r-- 1 fanzhjian 197121  62 1月  18 08:41 README.md
 -rw-r--r-- 1 fanzhjian 197121 479 1月  20 14:02 test.txt
+
 total 3
 -rw-r--r-- 1 fanzhjian 197121 548 1月  20 15:35 aaa.txt
 drwxr-xr-x 1 fanzhjian 197121   0 1月  20 15:48 fzj/
 -rw-r--r-- 1 fanzhjian 197121  63 1月  20 15:06 README.md
 -rw-r--r-- 1 fanzhjian 197121 661 1月  20 14:05 test.txt
+
 total 6
 -rw-r--r-- 1 fanzhjian 197121 784 1月  20 15:49 aaa.txt
 drwxr-xr-x 1 fanzhjian 197121   0 1月  20 15:48 fzj/
 -rw-r--r-- 1 fanzhjian 197121  63 1月  20 15:06 README.md
 -rw-r--r-- 1 fanzhjian 197121 661 1月  20 14:05 test.txt
+
 total 6
 -rw-r--r-- 1 fanzhjian 197121 1020 1月  20 16:35 aaa.txt
+-rw-r--r-- 1 fanzhjian 197121 1020 1月  20 16:28 aaa.txt
 drwxr-xr-x 1 fanzhjian 197121    0 1月  20 15:48 fzj/
 -rw-r--r-- 1 fanzhjian 197121   63 1月  20 15:06 README.md
 -rw-r--r-- 1 fanzhjian 197121  661 1月  20 14:05 test.txt
